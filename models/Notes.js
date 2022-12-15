@@ -30,6 +30,7 @@ const notesSchema = new mongoose.Schema({
         type: Number,
         
         
+        
     },
     image:{
         type: String,
